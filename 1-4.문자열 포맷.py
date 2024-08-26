@@ -12,7 +12,7 @@ print("나는 {}와 {}를 좋아합니다.".format("사과", "바나나"))
 # 방법 3
 print("나는 {age}살 이며, {fruit}를 좋아합니다.".format(age = 20, fruit = "사과"))
 
-# 방법 4 (중요)
+# 방법 4 (!)
 age = 20
 fruit = "사과"
 print(f"나는 {age}살이며, {fruit}를 좋아합니다.")
